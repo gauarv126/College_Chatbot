@@ -221,17 +221,7 @@ const history = [
         {text: "Faculty of Applied Science and Humanities\n------------------------------------\n\nDr. Vishal Singh Chandel\nView Profile\nName\t:\tDr. Vishal Singh Chandel\nDesignation\t:\tProfessor (Regular) & HOD\nDate of Joining\t:\t15-12-2017\nQualifications\t:\tPh. D.\nExperiences\t:\t18 Years + From 15-12-2017 till now\nArea of Interest\t:\tDielectric and electro-optical properties of dye, polymer, nano particle and quantum dot doped nematic, and ferroelectric liquid crystals. Dielectric and optical properties of Alkali Titanates (Sodium and Potassium) and oxides for microelectronic, sensing and soot removal applications.\nE-mail\t:\tvschandel@recabn.ac.in (Official)\n------------------\nName\t:\tDr. Amit Kumar Singh\nDesignation\t:\tAssistant Professor (Mathematics) (Regular)\nDate of Joining\t:\t11-12-2017\nQualifications\t:\tJRF (NET), GATE (208 AIR), Ph.D. (IIT, BHU) Post-Doctorate (ISI, Kolkata)\nExperiences\t:\t7 Years+ From 11-12-2017 till now\nResearch Work\t:\t11 International Papers in Highly Reputed Journals\nArea of Interest\t:\tFuzzy Mathematics, Decision making Theory (OWA Operators), Numerical Methods to solve ODE and PDE\nE-mail\t:\taksingh@recabn.ac.in (Official)\n------------------\nName\t:\tDr. Sushant Chaturvedi\nDesignation\t:\tAssistant Professor (Regular)\nDate of Joining\t:\t18-12-2017\nQualifications\t:\tPh D. NET\nExperiences\t:\t06 Years+ From 18-12-2017 till now\nArea of Interest\t:\tMy area of research interest lies in Literary Theory, American Fiction and Communication Skills. I also take keen interest in delivering lectures on personality development for students to help them secure good career. I am a lover of Shakespeare too.\nE-mail\t:\tsushant12@recabn.ac.in (Official)\n------------------\nName\t:\tMr. Vivekanand Singh\nDesignation\t:\tAssistant Professor (Regular)\nDate of Joining\t:\t11-12-2017\nQualifications\t:\t\nM.TECH (Production Engineering) from I.I.T. Delhi\nB.TECH (Industrial Production Engineering) from I.E.R.T. Allahabad\nExperiences\t:\t04 Years+ From 11-12-2017 till now\nResearch Work\t:\tElectro-Discharge Machining (EDM) of Conducting Ceramic\nArea of Interest\t:\tManufacturing science, Non-Conventional Manufacturing Processes, Computer Aided Manufacturing and Basic Thermodynamics.\nE-mail\t:\tvivekanand@recabn.ac.in (Official)\n------------------\nName\t:\tDr. Saurabh Srivastava\nDesignation\t:\tAssistant Professor (Physics) (Regular)\nDate of Joining\t:\t11-12-2017\nQualifications\t:\tJRF (NET), Ph.D. (BHU, Varanasi), Post-Doctorate (1. UGC-Dr. D.S. Kothari Postdoctorate Research Fellow, DTU Delhi, 2. DST-INSPIRE Faculty, DTU Delhi)\nExperiences\t:\t03 Years+ From 11-12-2017 till now\nResearch Work\t:\t20 International Papers in Highly Reputed Journals\nArea of Interest\t:\tNanomaterials, Graphene, Biosensor\nE-mail\t:\tsaurabh@recabn.ac.in (Official)\n------------------\nName\t:\tDr. Devendra Pratap Mishra\nDesignation\t:\tAssistant Professor (Chemistry) (Regular)\nDate of Joining\t:\t11-12-2017\nQualifications\t:\tPh.D.\nExperiences\t:\t05 Years+ From 11-12-2017 till now\nArea of Interest\t:\tMedicinal Chemistry, Polymer Chemistry\nE-mail\t:\tmishradev@recabn.ac.in (Official)\n------------------\nName\t:\tDr. Prabhudatt Dwivedi\nDesignation\t:\tAssistant Professor (Management) (Regular)\nDate of Joining\t:\t11-12-2017\nQualifications\t:\tMMS, Ph.D (MNNIT, Allahabad)\nExperiences\t:\t17 Years+ From 11-12-2017 till now\nArea of Interest\t:\tMarketing Management, Consumer Behaviour,\nHuman Values, Industrial Management, Economics,\nSmall and Medium Enterprises\nE-mail\t:\tprabhudatt@recabn.ac.in (Official),\nprabhudatt_d@yahoo.co.in (Personal)\n------------------\nName\t:\tDr. Amit Kumar Pandey\nDesignation\t:\tAssistant Professor (Electronics) (Regular)\nDate of Joining\t:\t11-12-2017\nQualifications\t:\tM. Tech. (NIT, Allahabad), Ph.D. (NIT, Allahabad)\nExperiences\t:\t08 Years+ From 11-12-2017 till now\nArea of Interest\t:\tVLSI circuits, Low Power VLSI Design\nE-mail\t:\tamitkumarpandey@recabn.ac.in (Official)\n------------------\nName\t:\tDr. Ashok Kumar Upadhyaya\nDesignation\t:\tAssistant Professor (Mathematics) (Guest Faculty)\nDate of Joining\t:\t30-08-2023\nQualifications\t:\tM.Sc. and Ph.D. (Mathematics)\nExperiences\t:\t14\nArea of Interest\t:\tHydrodynamic and magneto hydrodynamic turbulence\nE-mail\t:\tashokupadhyaya@recabn.ac.in(Official)"},
       ],
     },
-    {
-      role: "model",
-      parts: [
-        {
-          fileData: {
-            mimeType: files[0].mimeType,
-            fileUri: files[0].uri,
-          },
-        },
-      ],
-    },
+    
     {
       role: "user",
       parts: [
@@ -292,18 +282,7 @@ const history = [
         {text: "This is great! Thank you for providing the information about the TEQIP-III officials and administrative structure at Rajkiya Engineering College (R.E.C.) Ambedkar Nagar. This helps illustrate the college's approach to utilizing TEQIP-III funding effectively. \n\nHere are some key observations:\n\n* **Dedicated Team:** The college has a well-defined TEQIP-III administration team, with clear roles and responsibilities assigned to specific individuals.\n* **Clear Nodal Officers:**  There are designated nodal officers for finance, procurement, and academic aspects of the TEQIP-III project, ensuring accountability and efficient management.\n* **Departmental Coordinators:** Each department has a dedicated coordinator to oversee TEQIP-III implementation, ensuring integration across different academic areas.\n* **Centralized Procurement:**  The college follows a structured procurement process, with a central purchase committee that includes representatives from the Board of Governors, the faculty, the indenting department, and the government. This ensures transparency and proper oversight. \n\nThis structure suggests a focused and organized approach to managing TEQIP-III resources at R.E.C. Ambedkar Nagar.\n\nDo you have any specific questions about the TEQIP-III program at the college?  For example:\n\n* **TEQIP-III Objectives:** Are you curious about the specific goals and objectives of the TEQIP-III project at R.E.C.?\n* **Funding Allocation:**  Would you like to know how TEQIP-III funds are allocated across different departments or activities?\n* **Project Implementation:** Are you interested in learning about the specific projects or initiatives that are being implemented using TEQIP-III funds?\n* **Impact of TEQIP-III:** Do you want to understand the overall impact of the TEQIP-III program on the college's infrastructure, academics, or research activities? \n\nI'm here to help you explore this information in more detail! \n\n\n"},
       ],
     },
-    {
-      role: "user",
-      parts: [
-        {
-          fileData: {
-            mimeType: files[1].mimeType,
-            fileUri: files[1].uri,
-          },
-        },
-        {text: "i am going to provide you fee structure of college "},
-      ],
-    },
+    
     {
       role: "model",
       parts: [
